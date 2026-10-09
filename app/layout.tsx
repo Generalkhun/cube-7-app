@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Cube7",
-  description: "Minimal immersive focus and mindfulness landing page.",
+  title: "Fly Above",
+  description: "A story-driven mental journey with Phind, a black goose gliding above the noise.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
